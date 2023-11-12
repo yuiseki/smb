@@ -4,6 +4,14 @@ UN Smart Maps Bazaar is dedicated to embodying "Unlimited import, portable anywh
 
 ![social preview image](https://repository-images.githubusercontent.com/616972972/6928090c-d2ba-4cc7-8f23-6628d699263a)
 
+UN Smart Maps Bazaar is a project under [UN Smart Maps Group](https://unopengis.github.io/smartmaps) of [UN Open GIS Initiative](http://unopengis.org).
+
+## Related repos
+- [unopengis/smbc](https://github.com/unopengis/smbc): Smart Maps Bazaar commands (in Makefile)
+
+## Demo sites that makes use of UN Smart Maps Bazaar
+- [Nagasaki Point Cloud visualization](https://observablehq.com/@hfu/nagasaki-point-cloud-visualization)
+
 ## Connect to Smart Maps Bazaar node
 Please run the following on your IPFS node. 
 ```
