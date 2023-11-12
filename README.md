@@ -12,11 +12,14 @@ UN Smart Maps Bazaar is a project under [UN Smart Maps Group](https://unopengis.
 ## Demo sites that makes use of UN Smart Maps Bazaar
 - [Nagasaki Point Cloud visualization](https://observablehq.com/@hfu/nagasaki-point-cloud-visualization)
 
-## Connect to Smart Maps Bazaar node
+## <strike>Connect to Smart Maps Bazaar node</strike>
+We are moving this implementation detail to [unopengis/smbc](https://github.com/unopengis/smbc). We will be removing the following soon. 
+<strike>
 Please run the following on your IPFS node. 
 ```
 curl --silent https://unopengis.github.io/smb/connect.sh | sh
 ```
+</strike>
 
 ## About the social preview image
 A Cairo Bazaar by Adrien Dauzats, 1839
